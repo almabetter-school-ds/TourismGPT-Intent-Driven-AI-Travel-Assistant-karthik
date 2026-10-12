@@ -6,7 +6,13 @@ A fine-tuned travel chatbot built on **Phi-3 Mini** with **Retrieval-Augmented G
 **Drive Link:** [Google Drive](https://drive.google.com/drive/folders/1JZpWVC6K2RQamoGHcLQ5nHKv7FmjiFgc?usp=drive_link)
 
 ---
+**Screenshots:**
+<img width="1470" height="882" alt="Screenshot 2026-06-16 at 1 36 24 AM" src="https://github.com/user-attachments/assets/fa449dcc-50b2-41df-80e9-6933ae967950" />
+<img width="1470" height="882" alt="Screenshot 2026-06-16 at 1 35 57 AM" src="https://github.com/user-attachments/assets/1a25b8f6-242b-4d71-8719-72eb173ed0fd" />
+<img width="1470" height="882" alt="Screenshot 2026-06-16 at 1 35 30 AM" src="https://github.com/user-attachments/assets/246e3002-7cf9-430c-87c9-e134dfe74332" />
+<img width="1470" height="882" alt="Screenshot 2026-06-16 at 1 34 54 AM" src="https://github.com/user-attachments/assets/c7b0f078-26b9-4c99-a7e8-52ae14757968" />
 
+---
 ## Architecture
 
 ```
